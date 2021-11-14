@@ -5,7 +5,7 @@ int main() {
           cin>>n;
    if(n>=2){
        cout<< x2 << endl;
-       for(int i=3; i<(n+1);++i){
+       for(int i=3; i<=(n+1);++i){
            cout<< xf << endl;
            x1=x2;
            x2=xf;
